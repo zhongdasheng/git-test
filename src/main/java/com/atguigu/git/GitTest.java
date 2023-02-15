@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello china!");
         System.out.println("push test");
         System.out.println("push test1");
+        System.out.println("nihao,push");
     }
 }
